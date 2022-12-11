@@ -6,6 +6,7 @@ Daha sonra for döngüsünde 3 ifade tanımlıyorum a’yı 1’e eşitliyorum, 
 En sonda return 0 ile çıkıyorum.
 
 
+
 ![image](https://user-images.githubusercontent.com/101289239/206900832-bb23825e-301d-405e-9be9-ca278a51fc3c.png)
 
 
