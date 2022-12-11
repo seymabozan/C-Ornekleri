@@ -1,0 +1,2 @@
+# C-Standart-Sapma-Hesaplama
+ 
